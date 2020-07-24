@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/rez4rinaldi/svelte-todo/master/doc/images/svelte-todo.png)
+![](https://raw.githubusercontent.com/rez4rinaldi/svelte-todo/master/img/svelte-todo.png)
 
 A Todos App that you can create, delete, check completed and filter viewing by active or completed.
 
