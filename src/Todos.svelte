@@ -174,25 +174,23 @@
             class="btn btn-blue"
             on:click={() => updateFilter('all')}
             class:active={currentFilter === 'all'}>
-            All
+            Show
           </button>
           <button
             class="btn btn-blue"
             on:click={() => updateFilter('active')}
             class:active={currentFilter === 'active'}>
-            Active
+            Hide
           </button>
           <button
             class="btn btn-blue"
             on:click={() => updateFilter('completed')}
             class:active={currentFilter === 'completed'}>
-            completed
+            Completed
           </button>
         </div>
         <div>
-          <button class="btn btn-blue" on:click={clearCompleted}>
-            Clear Completed
-          </button>
+          <button class="btn btn-blue" on:click={clearCompleted}>Clear</button>
         </div>
       </div>
     </div>
