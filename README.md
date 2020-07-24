@@ -99,7 +99,7 @@ surge public my-project.surge.sh
 
 ## ♻️ Source
 
-![Svelte Todo](https://github-readme-stats.vercel.app/api/pin?username=wildpow&repo=svelte-todo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Svelte Todo](https://github-readme-stats.vercel.app/api/pin?username=wildpow&repo=svelte-todo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/wildpow/svelte-todo)
 
 <p align="right">
     <b><a href="#">↥ back to top</a></b>
